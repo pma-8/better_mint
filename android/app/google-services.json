@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327136379685",
+    "project_id": "bettermint-d3dbd",
+    "storage_bucket": "bettermint-d3dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327136379685:android:3bee60d6e9490dfa5fd0cc",
+        "android_client_info": {
+          "package_name": "com.example.bettermint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327136379685-469elm46ip7p72rkhrtg5kejri1c8b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNX-XIcO6d8FRG9DsQg0_lq_1_c5rgTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327136379685-469elm46ip7p72rkhrtg5kejri1c8b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
